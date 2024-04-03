@@ -2,7 +2,7 @@
 
 This is project is implemented in C language and uses data structures like doubly circular linked list and trees.
 
-The project for admin use only.
+The project is for admin use only.
 The main objective of this project is to provide necessary facilities to the admin which includes 
 1. adding and deleting movie shows,
 2. displaying the available movie shows,
